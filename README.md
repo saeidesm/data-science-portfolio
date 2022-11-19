@@ -12,3 +12,9 @@ This repository represent my portfolio which contains the data science and machi
 * Results demonstrated 99% accuracy in parameters prediction
 <br>_Keywords(Time Series Data, LSTM, Traffic Prediction)_
  
+### [Scene Classification using Transfer Learning](https://github.com/saeidesm/scene-classification-transfer-learning)
+* Used **CNNs** and **Transfer Learning** to classify different scenes
+* Three different models (MobileNetV2, Xception, and Inc-ResNetV2) adopted as the base model
+* Fine-tuned the models to our small dataset of scene pictures
+* Results demonstrated 94% accuracy in scene classification
+<br>_Keywords(Classification, CNN, Transfer Learning, Fine-Tunning)_
