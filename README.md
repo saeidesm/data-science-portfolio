@@ -10,5 +10,5 @@ This repository represent my portfolio which contains the data science and machi
 * Used the sliding window analogy to predict next four steps of speed, density and occupancy 
 * Analyzed the predicted data to make decision upon the congestion occurence
 * Results demonstrated 99% accuracy in parameters prediction
-_Keywords(Time Series Data, LSTM, Traffic Prediction)_
+<br>_Keywords(Time Series Data, LSTM, Traffic Prediction)_
  
