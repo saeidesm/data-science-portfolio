@@ -3,7 +3,7 @@ This repository represent my portfolio which contains the data science and machi
 
 ## Projects:
 
-### [Traffic Congestion Prediction](https://)
+### [Traffic Congestion Prediction](https://github.com/saeidesm/traffic-prediction-using-lstm)
 * **Dataset:** City od Madrid traffic administrators deployed over 3000 traffic sensors to gather various traffic parameters including average traffic speed, density and occupancy. Aggregated data is published as an IoT service using a [RESTful API](https://informo.madrid.es/informo/tmadrid/pm.xml) and data is updated every 5 minutes. 
 * Investigated the correlation between different data points in order to feed the network
 * Used **stacked LSTM** to fit three days of Madrid traffic data
