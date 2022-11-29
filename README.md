@@ -45,9 +45,7 @@ This repository represent my portfolio which contains the data science and machi
 * Results demonstrated that the model achieved a high precision of 0.88 on the test set. The F1 score is 0.93.
 <br>_Keywords(Classification, Sequential model, Keras)_
 
-### [Scraping Amazon Product Reviews](https://github.com/saeidesm/qualitative_banking/blob/main/qualitative_bankruptcy.ipynb)
-* Explored and anlysed the dataset
-* Used different ML models (**Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting**) to predict bankruptcy
-* Results demonstrated 100% accuracy in bankruptcy prediction
-<br>_Keywords(Classification, Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting, Cross Validation, Grid Search)_
+### [Scraping Amazon Product Reviews](https://github.com/saeidesm/scraping-amazon-review)
+* Used BeautifulSoup to collect and save all the reviews from specific amazon product url
+<br>_Keywords(BeautifulSoup, urllib, pandas)_
 
