@@ -18,3 +18,33 @@ This repository represent my portfolio which contains the data science and machi
 * Fine-tuned the models to our small dataset of scene pictures
 * Results demonstrated 94% accuracy in scene classification
 <br>_Keywords(Classification, CNN, Transfer Learning, Fine-Tunning)_
+
+### [Fraudulent Firms Classification](https://github.com/saeidesm/fraud_audit/blob/main/fraud-audit.ipynb)
+* Explored and anlysed the dataset 
+* Cleansed the dataset and imputed the data where needed
+* Optimized hyperparameters through a cross-validated grid search 
+* Used different ML models (**Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting**) to classify firms with fraud risk
+* Results demonstrated 100% accuracy in fraudulent firms classification
+<br>_Keywords(Classification, Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting, Cross Validation, Grid Search)_
+
+### [Bankruptcy Prediction from Qualitative Parameters](https://github.com/saeidesm/qualitative_banking/blob/main/qualitative_bankruptcy.ipynb)
+* Explored and anlysed the dataset 
+* Cleansed the dataset and imputed the data where needed
+* Optimized hyperparameters through a cross-validated grid search 
+* Used different ML models (**Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting**) to predict bankruptcy
+* Results demonstrated 100% accuracy in bankruptcy prediction
+<br>_Keywords(Classification, Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting, Cross Validation, Grid Search)_
+
+### [Lending Club Paying Back Prediction](https://github.com/saeidesm/qualitative_banking/blob/main/qualitative_bankruptcy.ipynb)
+* Explored and anlysed the dataset
+* Cleansed the dataset and imputed the data where needed 
+* Used sequential model to predict if a client will pay back their loan or not. 
+* Results demonstrated 100% accuracy in bankruptcy prediction
+<br>_Keywords(Classification, Sequential model, Keras)_
+
+### [Scraping Amazon Product Reviews](https://github.com/saeidesm/qualitative_banking/blob/main/qualitative_bankruptcy.ipynb)
+* Explored and anlysed the dataset
+* Used different ML models (**Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting**) to predict bankruptcy
+* Results demonstrated 100% accuracy in bankruptcy prediction
+<br>_Keywords(Classification, Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting, Cross Validation, Grid Search)_
+
