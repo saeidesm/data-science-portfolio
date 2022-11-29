@@ -41,7 +41,7 @@ This repository represent my portfolio which contains the data science and machi
    - Exploring, transforming, and visualizing the data
    - Finding the most correlated features through correlation process 
    - Creating dummy variables for categorical features 
-* Used sequential model to predict if a client will pay back their loan or not. 
+* Used **sequential model** to predict if a client will pay back their loan or not. 
 * Results demonstrated that the model achieved a high precision of 0.88 on the test set. The F1 score is 0.93.
 <br>_Keywords(Classification, Sequential model, Keras)_
 
