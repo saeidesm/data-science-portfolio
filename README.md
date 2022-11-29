@@ -35,7 +35,7 @@ This repository represent my portfolio which contains the data science and machi
 * Results demonstrated 100% accuracy in bankruptcy prediction
 <br>_Keywords(Classification, Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting, Cross Validation, Grid Search)_
 
-### [Lending Club Paying Back Prediction](https://github.com/saeidesm/qualitative_banking/blob/main/qualitative_bankruptcy.ipynb)
+### [Lending Club Paying Back Prediction](https://github.com/saeidesm/lending-club-default-prediction)
 * Explored and anlysed the dataset
 * Cleansed the dataset and imputed the data where needed 
 * Used sequential model to predict if a client will pay back their loan or not. 
