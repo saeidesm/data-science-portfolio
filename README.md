@@ -19,7 +19,7 @@ This repository represent my portfolio which contains the data science and machi
 * Results demonstrated 99% accuracy in parameters prediction
 <br>_Keywords(Time Series Data, LSTM, Traffic Prediction)_
 
-### Movie Recommender System
+### [Movie Recommender System](https://github.com/saeidesm/movie-recommender-system)
 * **Dataset:** The TMDB 5000 movie dataset
 * Explored and analyzed the dataset
 * Clean the datasets and merge all avible datasets together.
