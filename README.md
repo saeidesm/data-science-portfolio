@@ -19,8 +19,18 @@ This repository represent my portfolio which contains the data science and machi
 * Results demonstrated 99% accuracy in parameters prediction
 <br>_Keywords(Time Series Data, LSTM, Traffic Prediction)_
 
+### Movie Recommender System
+* **Dataset:** The TMDB 5000 movie dataset
+* Explored and analyzed the dataset
+* Clean the datasets and merge all avible datasets together.
+* Preprocess each columns to get the important key words and put all together in the "tags" column
+* Used the **Bag of Words** technique for the vectorization
+* Computed the cosine angle between all vectors(movies)
+* Recommended top 6 movies base on the cosine angle(similarity)
+* Used Streamlit to visualize the movie recommender as a web application
+
 ### [Fraudulent Firms Classification](https://github.com/saeidesm/fraud_audit/blob/main/fraud-audit.ipynb)
-* Explored and anlysed the dataset 
+* Explored and analyzed the dataset 
 * Cleansed the dataset and imputed the data where needed
 * Optimized hyperparameters through a cross-validated grid search 
 * Used different ML models (**Logistics Regression, KNN SVM, MLP, Decision Tree, Random Forest, Gradient Boosting**) to classify firms with fraud risk
@@ -44,8 +54,4 @@ This repository represent my portfolio which contains the data science and machi
 * Used **sequential model** to predict if a client will pay back their loan or not. 
 * Results demonstrated that the model achieved a high precision of 0.88 on the test set. The F1 score is 0.93.
 <br>_Keywords(Classification, Sequential model, Keras)_
-
-### [Scraping Amazon Product Reviews](https://github.com/saeidesm/scraping-amazon-review)
-* Used BeautifulSoup to collect and save all the reviews from specific amazon product url
-<br>_Keywords(BeautifulSoup, urllib, pandas)_
 
